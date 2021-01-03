@@ -18,6 +18,6 @@ Inspired by [Infosec Deals](https://github.com/instadoodledavid/Infosec-Deals-20
 
 ## Information Security
 
-Including cyber security and thread modeling.
+Including cyber security and threat modeling.
 
 See also [Infosec Deals](https://github.com/instadoodledavid/Infosec-Deals-2020) and [InfoSec Black Friday](https://github.com/0x90n/InfoSec-Black-Friday).
