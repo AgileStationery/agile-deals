@@ -20,6 +20,7 @@ Inspired by [Infosec Deals](https://github.com/instadoodledavid/Infosec-Deals-20
 | ------- | ------- | ---- | ----- | ---- |
 | DevOpsCon |Conference for Continuous Delivery, Microservices, Containers, Cloud & Lean Business on 20th-23rd April 2021. Very Early bird discount.  | Upto £330 OFF | 03/01/21 | [link](https://devopscon.io/london/tickets-london/?go=ok/) |
 | Agile Testing Days USA 2021 |5-day long learning festival for the agile and testing community from 20th-24th June 2021. Very Early bird discount.  | Upto $700 OFF | 03/01/21 | [link](https://agiletestingdays.us/register/) |
+| Agile Munich Conference Day |1-day conference on 21st April 2021. Early bird discount.  | Upto EUR100 OFF | 03/01/21 | [link](https://www.agilemunich.com//) |
 
 ## Serious Card Games
 
