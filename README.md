@@ -4,7 +4,7 @@ A live list of discounts available to [agile](https://agilemanifesto.org/) folks
 
 Inspired by [Infosec Deals](https://github.com/instadoodledavid/Infosec-Deals-2020) and [InfoSec Black Friday](https://github.com/0x90n/InfoSec-Black-Friday)
 
-## Courses
+## Courses and training
 
 | Website | Details | Amount | As-of | Link |
 | ------- | ------- | ---- | ----- | ---- |
@@ -14,6 +14,11 @@ Inspired by [Infosec Deals](https://github.com/instadoodledavid/Infosec-Deals-20
 | Scrum Alliance |Certified Scrum Product Owner courses from 19th January onwards. Early bird discounts.  | Upto £150 off | 03/01/21 | [link](https://www.scrumalliance.org/courses-events/search?ctyp=Cspo&vo=true&cnty=GB&rad=30&tz=my&pg=1/) |
 | Inspect and Adapt |Advanced Certified Scrum Product Owner Course | £250 off | 03/01/21 | [link](https://www.inspectandadapt.com/product/advanced-certified-product-owner-a-cspo/) |
 
+## Conferences
+
+| Website | Details | Amount | As-of | Link |
+| ------- | ------- | ---- | ----- | ---- |
+| DevOpsCon |Conference for Continuous Delivery, Microservices, Containers, Cloud & Lean Business on 20th-23rd April 2021. Very Early bird discount.  | Upto £330 OFF | 03/01/21 | [link](https://devopscon.io/london/tickets-london/?go=ok/) |
 
 ## Serious Card Games
 
