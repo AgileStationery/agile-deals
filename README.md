@@ -13,6 +13,7 @@ Inspired by [Infosec Deals](https://github.com/instadoodledavid/Infosec-Deals-20
 | Agil8 |Kanban and Scrum Certifications via live online training. Early bird discounts.  | Not disclosed | 03/01/21 | [link](https://www.agil8.com/) |
 | Scrum Alliance |Certified Scrum Product Owner courses from 19th January onwards. Early bird discounts.  | Upto £150 off | 03/01/21 | [link](https://www.scrumalliance.org/courses-events/search?ctyp=Cspo&vo=true&cnty=GB&rad=30&tz=my&pg=1/) |
 | Inspect and Adapt |Advanced Certified Scrum Product Owner Course | £250 off | 03/01/21 | [link](https://www.inspectandadapt.com/product/advanced-certified-product-owner-a-cspo/) |
+| Team Topologies |Online Training: Team Topologies for Project Managers `TT4PM20`| 20% off | 03/01/21 | [link](https://teamtopologies.com/training-and-workshops/online-training-team-topologies-for-project-managers-via-pmi/) |
 
 ## Conferences
 
