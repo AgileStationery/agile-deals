@@ -14,6 +14,7 @@ Inspired by [Infosec Deals](https://github.com/instadoodledavid/Infosec-Deals-20
 | Scrum Alliance |Certified Scrum Product Owner courses from 19th January onwards. Early bird discounts.  | Upto £150 off | 03/01/21 | [link](https://www.scrumalliance.org/courses-events/search?ctyp=Cspo&vo=true&cnty=GB&rad=30&tz=my&pg=1/) |
 | Inspect and Adapt |Advanced Certified Scrum Product Owner Course | £250 off | 03/01/21 | [link](https://www.inspectandadapt.com/product/advanced-certified-product-owner-a-cspo/) |
 | Team Topologies |Online Training: Team Topologies for Project Managers `TT4PM20`| 20% off | 03/01/21 | [link](https://teamtopologies.com/training-and-workshops/online-training-team-topologies-for-project-managers-via-pmi/) |
+| Radtac |Implementing SAFe® with SPC Certification. Early bird dicounts| £200 off | 03/01/21 | [link](https://www.radtac.com/training/scaling/safe/implementing-safe-with-spc-certification/?event_id=12346&utm_campaign=UK%20public%20training%20promotion&utm_content=149728035&utm_medium=social&utm_source=twitter&hss_channel=tw-196559838/) |
 
 ## Conferences
 
