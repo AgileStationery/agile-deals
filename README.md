@@ -17,6 +17,12 @@ Inspired by [Infosec Deals](https://github.com/instadoodledavid/Infosec-Deals-20
 | Radtac |Implementing SAFe® with SPC Certification. Early bird dicounts| £200 off | 03/01/21 | [link](https://www.radtac.com/training/scaling/safe/implementing-safe-with-spc-certification/?event_id=12346&utm_campaign=UK%20public%20training%20promotion&utm_content=149728035&utm_medium=social&utm_source=twitter&hss_channel=tw-196559838/) |
 | Flowdays |Scrum, Kanban, Business Agility and Leadership training. Early bird dicounts| Upto 400 CHF off | 03/01/21 | [link](https://flowdays.net/de/trainings/trainings-alle/) 
 
+## Books
+
+| Website | Details | Amount | As-of | Link |
+| ------- | ------- | ---- | ----- | ---- |
+| Agile Stationery |Continuous Delivery with Windows & .NET by Matthew Skelton, Chris O'Dell. Bulk quantity discounts | Upto 20% | 12/01/21 | [link](https://agilestationery.co.uk/products/continuous-delivery-with-windows-net-by-matthew-skelton-chris-odell/) |
+
 ## Conferences
 
 | Website | Details | Amount | As-of | Link |
