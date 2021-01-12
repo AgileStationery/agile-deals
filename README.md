@@ -21,7 +21,8 @@ Inspired by [Infosec Deals](https://github.com/instadoodledavid/Infosec-Deals-20
 
 | Website | Details | Amount | As-of | Link |
 | ------- | ------- | ---- | ----- | ---- |
-| Agile Stationery |Continuous Delivery with Windows & .NET by Matthew Skelton, Chris O'Dell. Bulk quantity discounts | Upto 20% | 12/01/21 | [link](https://agilestationery.co.uk/products/continuous-delivery-with-windows-net-by-matthew-skelton-chris-odell/) |
+| Agile Stationery |Continuous Delivery with Windows & .NET by Matthew Skelton, Chris O'Dell. Bulk quantity discounts | Upto 20% OFF | 12/01/21 | [link](https://agilestationery.co.uk/products/continuous-delivery-with-windows-net-by-matthew-skelton-chris-odell/) |
+| Agile Stationery |Team Topologies - by Matthew Skelton and Manuel Pais | 20% OFF | 12/01/21 | [link](https://agilestationery.co.uk/products/team-topologies-book/) |
 
 ## Conferences
 
